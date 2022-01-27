@@ -486,7 +486,7 @@ section {
 .about .row .content p {
   font-size: 1.5rem;
   color: var(--light-color);
-  line-height: 2;
+  line-height: 3;
   padding: 1rem 0;
 }
 
@@ -505,6 +505,7 @@ section {
 .about .box-container .box {
   text-align: center;
   background: var(--light-bg);
+  /* background: var(--lightblue); */
   padding: 3rem 2rem;
 }
 
